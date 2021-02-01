@@ -1,6 +1,6 @@
 # Auto Farm Dank Memer
 
-` Put Your Token In Line 6 `
+` Put Your Token In config.js Line 6 `
 
 
 
